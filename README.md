@@ -1,0 +1,1 @@
+The Application can have notes added, updated and deleted, it also focuses strongly on the security through authentication and authorization, future updates to include google and github signin and login. Contributions are highly encouraged as we pursue this journey in pursuit of technological growth and exelence.
